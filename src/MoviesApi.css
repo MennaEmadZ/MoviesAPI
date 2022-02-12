@@ -1,0 +1,20 @@
+.movie
+{
+    background-color: #222;
+}
+
+.film:link, .film:visited
+{
+    text-decoration: none;
+    color:white;
+
+}
+.pag
+{
+    color: white;
+}
+.favButton
+{
+    background-color:#222 ;
+    border:none
+}

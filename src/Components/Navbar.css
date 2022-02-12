@@ -1,0 +1,34 @@
+.navbar
+{
+    background-color:#292929;
+    height:70px;
+    font-size: 30px;
+    font-weight: bolder;
+    letter-spacing: 4px;
+}
+.nav-link:visited, .nav-link:link
+{
+    text-decoration: none;
+    color:white;
+}
+.nav-link:hover, .nav-link:active
+{
+    text-decoration: none;
+    color:white;
+    text-shadow: 0px 5px 15px  white;
+    border-top: 2px solid white;
+}
+.fav
+{
+    font-size: smaller ;
+}
+.lang
+{
+    color:red;
+    border: 2px solid red;
+}
+.lang:hover
+{
+    color:red;
+    border: 2px solid red;
+}
